@@ -38,3 +38,4 @@ JasperGold
       ↓
 Check assert / cover / counterexample
 ```
+https://hackmd.io/TsfGK-1LQ7yqOcWPAqjCnQ?view
